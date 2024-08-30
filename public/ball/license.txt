@@ -1,0 +1,8 @@
+Model Information:
+* title:	Basketball
+* source:	https://sketchfab.com/3d-models/basketball-09f5361b67c545f3a22f10ae243f44d7
+* author:	BrokenCode (https://sketchfab.com/BrokenCode)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
